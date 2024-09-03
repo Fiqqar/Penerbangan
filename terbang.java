@@ -19,8 +19,6 @@ public class terbang {
         System.out.println("1. Lion Air");
         System.out.println("2. Garuda Indonesia");
         System.out.println("3. Batik Air");
-        System.out.println("4. Citilink");
-        System.out.println("5. Sriwijaya Air");
         System.out.print("Pilihlah salah satu maskapai di atas yang anda akan pesan (Tulis dengan menggunakan angka, contoh 1, 2, atau 3) : ");
         maskapai = scan.nextLine();
         
